@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 ### minitalk <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/2957136" alt="thibnguy's 42 minitalk Score" /></a>
 
-### FdF
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3101188" alt="thibnguy's 42 FdF Score" /></a>
+### FdF <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3101188" alt="thibnguy's 42 FdF Score" /></a>
 --------------------------------
 ## Circle 3
 ### Philosophers <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3134736" alt="thibnguy's 42 Philosophers Score" /></a>
