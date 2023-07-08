@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ## My student profile at 42 Nice
 [![thibnguy's 42 stats](https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/stats?cursusId=21&coalitionId=105)](https://github.com/JaeSeoKim/badge42)
+
+[![42 Project Score](https://42-project-badge.glitch.me/users/thibnguy/project/fdf)](https://github.com/ricardoreves/42-project-badge)
