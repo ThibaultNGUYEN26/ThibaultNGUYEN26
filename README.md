@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3134736" alt="thibnguy's 42 Philosophers Score" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3135268" alt="thibnguy's 42 Exam Rank 03 Score" /></a>
 [![thibnguy's 42 minishell Score](https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3132221)](https://github.com/JaeSeoKim/badge42)
+
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/3132221" alt="thibnguy's 42 minishell Score" /></a>
