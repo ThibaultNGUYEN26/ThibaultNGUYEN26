@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/stats?cursusId=21&coalitionId=105" alt="thibnguy's 42 stats" /></a>
 
 # My 42 marks 
---------------------------------
+
 ## Circle 0
 ### Libft
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clju7sgx8005409lh1a3q4xq1/project/2899843" alt="thibnguy's 42 Libft Score" /></a>
