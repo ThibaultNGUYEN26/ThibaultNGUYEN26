@@ -11,21 +11,15 @@ Hello! I'm Thibault NGUYEN, a Software Engineer passionate about coding and tech
 class SoftwareEngineer {
 
 private:
-    std::string firstName;
     std::string name;
     std::string role;
     std::vector<std::string> languageSpoken;
 
 public:
-    SoftwareEngineer() {
-        firstName = "Thibault";
-        name = "NGUYEN";
-        role = "Software Engineer";
-        languageSpoken = {"fr_FR", "en_US"};
-    }
+    SoftwareEngineer() : name("Thibault NGUYEN"), role("Software Engineer"), languageSpoken({"fr_FR", "en_US"}) {}
 
     void sayHi() const {
-        std::cout << "Hello ! My name is" << fisrtName << " " << name << "\nWelcome to my GitHub profile !" << std::endl;
+        std::cout << "Hello ! My name is" << name << "\nWelcome to my GitHub profile !" << std::endl;
     }
 
 };
