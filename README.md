@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 #include <string>
 
 class SoftwareEngineer {
+
 private:
     std::string firstName;
     std::string name;
@@ -40,6 +41,7 @@ public:
     void sayHi() const {
         std::cout << "Hello ! My name is" << fisrtName << " " << name << "\nWelcome to my GitHub profile !" << std::endl;
     }
+
 };
 
 int main() {
