@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # My student profile at 42 Nice
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
