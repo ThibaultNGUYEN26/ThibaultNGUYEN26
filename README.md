@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 Hello! I'm Thibault NGUYEN, a Software Engineer passionate about coding and technology. Below is a small C++ program that represents a bit of what I do and my enthusiasm for programming. Feel free to explore my repositories and connect with me!
 
-#🚀 About Me
+# 🚀 About Me
 
 ```cpp
 #include <iostream>
