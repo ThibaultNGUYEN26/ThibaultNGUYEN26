@@ -3,7 +3,7 @@
 <div align="center">
   <p>
     <a href="https://profile.intra.42.fr/users/thibnguy">
-      <img src="https://badgen.net/badge/Born2Code/thibnguy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+      <img src="https://badgen.net/badge/42Nice/thibnguy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
     </a>
     <a href="https://www.linkedin.com/in/thibaultnguyen/">
       <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=chrome">
