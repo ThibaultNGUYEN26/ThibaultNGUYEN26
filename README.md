@@ -1,5 +1,19 @@
 ![banner](https://github.com/ThibaultNGUYEN26/ThibaultNGUYEN26/blob/main/githubBanner.png)
 
+<div align="center">
+  <p>
+    <a href="https://profile.intra.42.fr/users/thibnguy">
+      <img src="https://badgen.net/badge/Born2Code/thibnguy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/thibaultnguyen/">
+      <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=chrome">
+    </a>
+    <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
+      <img src="https://komarev.com/ghpvc/?username=ThibaultNGUYEN26&color=blueviolet">
+    </a>
+  </p>
+</div>
+
 # Welcome to My GitHub Profile! 👋
 Hello! I'm Thibault NGUYEN, a student at 42 Nice passionate about coding and technology. Feel free to explore my repositories and connect with me!
 
