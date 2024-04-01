@@ -6,7 +6,7 @@
       <img src="https://badgen.net/badge/42Nice/thibnguy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
     </a>
     <a href="https://www.linkedin.com/in/thibaultnguyen/">
-      <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=chrome">
+      <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=linkedin">
     </a>
     <img src="https://komarev.com/ghpvc/?username=ThibaultNGUYEN26&color=blueviolet">
   </p>
