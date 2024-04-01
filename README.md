@@ -8,9 +8,7 @@
     <a href="https://www.linkedin.com/in/thibaultnguyen/">
       <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=chrome">
     </a>
-    <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
-      <img src="https://komarev.com/ghpvc/?username=ThibaultNGUYEN26&color=blueviolet">
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=ThibaultNGUYEN26&color=blueviolet">
   </p>
 </div>
 
