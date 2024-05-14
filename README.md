@@ -2,13 +2,13 @@
 
 <div align="center">
   <p>
-    <a target="_blank" rel="noopener noreferrer" href="https://profile.intra.42.fr/users/thibnguy/">
+    <a href="https://profile.intra.42.fr/users/thibnguy/">
       <img src="https://badgen.net/badge/42Nice/thibnguy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thibaultnguyen/">
+    <a href="https://www.linkedin.com/in/thibaultnguyen/">
       <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=linkedin">
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://ThibaultNGUYEN26.github.io/">
+    <a href="https://ThibaultNGUYEN26.github.io/">
     <img src="https://komarev.com/ghpvc/?username=ThibaultNGUYEN26&color=blueviolet">
     </a>
   </p>
