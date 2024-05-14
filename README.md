@@ -7,8 +7,10 @@
     </a>
     <a href="https://www.linkedin.com/in/thibaultnguyen/">
       <img src="https://badgen.net/badge/LinkedIn/Thibault NGUYEN/cyan?icon=linkedin">
-    </a href="ThibaultNGUYEN26.github.io">
+    </a>
+    <a href="https://ThibaultNGUYEN26.github.io">
     <img src="https://komarev.com/ghpvc/?username=ThibaultNGUYEN26&color=blueviolet">
+    </a>
   </p>
 </div>
 
