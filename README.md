@@ -45,4 +45,5 @@ int main() {
     return 0;
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultNGUYEN26&hide=javascript,css,scss,html&theme=tokyonight)
+
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultNGUYEN26&hide=javascript,css,scss,html&theme=tokyonight)</div>
